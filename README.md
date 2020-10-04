@@ -1,2 +1,4 @@
-# job_mortality
-Mortality by different job areas
+# Mortality by occupation in England and Wales
+
+In response to [a spike](https://www.bbc.co.uk/news/uk-england-london-53812587) in [UK coverage](https://www.bbc.co.uk/news/live/uk-england-london-54293249) of the riskiness of policing as a job, a quick investigation into how the risks of policing stack up against other occupations.
+N.B. if you think "Protective Services Occupations" is a weird term, I agree! it's based on [the "Standard Occupational Classification"](https://hesa.ac.uk/support/documentation/occupational/soc90) (which includes cops, firefighters, screws, and a few others under one banner).
